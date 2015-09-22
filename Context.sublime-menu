@@ -1,0 +1,7 @@
+[
+{
+    "id" : "es6_import_manager",
+    "caption" : "Reorder Imports",
+    "command" : "es6_import_manager"
+}
+]
